@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mikomox
 - 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on github/gitlab
-- 📫 How to reach me @rendy.code on instagram
 
 
 <!---
